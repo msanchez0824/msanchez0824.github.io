@@ -1,2 +1,2 @@
-# sanchezmavin-desig.github.io/Control_Combustible.html
+# sanchezmavin-desig.github.io
 Combustible
